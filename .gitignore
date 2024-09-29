@@ -1,0 +1,9 @@
+# compiled 
+__pycache__
+
+# database
+*.sqlite3
+
+# learning
+opensources
+readings
